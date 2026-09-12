@@ -1,0 +1,12 @@
+{
+  "name": "ejemplo",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix project run dev --",
+    "build": "npm --prefix project run build",
+    "lint": "npm --prefix project run lint",
+    "typecheck": "npm --prefix project run typecheck",
+    "install:project": "npm install --prefix project",
+    "postinstall": "npm run install:project"
+  }
+}
