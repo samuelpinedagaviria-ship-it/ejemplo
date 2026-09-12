@@ -1,0 +1,17 @@
+INSTRUCCIONES PARA COLOCAR EL ARCHIVO APK
+==========================================
+
+Coloca tu archivo APK en esta carpeta con el siguiente nombre:
+
+    app-release.apk
+
+Es decir, la ruta completa debe ser:
+
+    public/downloads/app-release.apk
+
+Una vez que coloques el archivo aquí, el botón "Descargar APK" del sitio web
+funcionará automáticamente sin necesidad de modificar nada más.
+
+El botón está configurado para descargar el archivo desde:
+
+    /downloads/app-release.apk
