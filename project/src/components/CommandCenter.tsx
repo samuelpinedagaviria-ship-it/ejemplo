@@ -1,6 +1,5 @@
 import {
   Lock,
-  Check,
   Clock,
   Camera,
   FileText,

@@ -1,4 +1,4 @@
-import { Download, ArrowDown, Shield, Users, Camera } from 'lucide-react';
+import { ArrowDown, Shield, Users, Camera } from 'lucide-react';
 import { appData } from '@/data/appData';
 import TreeLogo from '@/components/TreeLogo';
 

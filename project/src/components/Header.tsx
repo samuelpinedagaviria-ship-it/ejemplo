@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Menu, X, Download, LayoutDashboard } from 'lucide-react';
-import { Link, useLocation } from 'react-router-dom';
+import { useLocation } from 'react-router-dom';
 import { appData } from '@/data/appData';
 import TreeLogo from '@/components/TreeLogo';
 
